@@ -1,5 +1,3 @@
-### 斗拉IT，简便高效的IT技术
-
 ## articles
 [About DevOps](./devops)
 
